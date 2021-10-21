@@ -3,7 +3,7 @@
         <div class="container">
             <div class="marg_top">
                 <a class="brand">
-                    <img src="img/logo.png" width="200" height="58">
+                    <img src="img/logo.jpg" width="200" height="58">
                 </a> 
                 <a class="brand">
                     <h2>Personnel Record Management System</h2>
